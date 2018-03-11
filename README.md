@@ -13,11 +13,11 @@ dnf install git (fedora 27)
 
 Configuration:
 open in terminal (Linux) Git bash (windows)
-git config --global user.name "<name>"
+git config --global user.name <name>
 
-git config --global user.username "<username>"
+git config --global user.username <username>
   
-git config --global user.password "<password>"
+git config --global user.password <password>
  
  if you want to change user then follow the same way it automatically overrides the user.
  
